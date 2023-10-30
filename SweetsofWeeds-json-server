@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/I3lackout/SweetsofWeeds/SweetsofWeeds-json-server.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["SweetsofWeeds", "Sow", "I3lackout", "Legal Medicin Cannabis in form as Weed's, Hash's and Oil's [CBD & HHC]", "E-Shop"],
+  "author": "I3lackout",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/I3lackout/SweetsofWeeds/SweetsofWeeds-json-server/isses"
