@@ -1,0 +1,20 @@
+{
+  "name": "SweetsofWeeds-json-server",
+  "version": "1.0.3",
+  "description": "Server for the E-Shop from SweetsofWeeds",
+  "main": "index.js",
+  "scripts" {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I3lackout/SweetsofWeeds/SweetsofWeeds-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I3lackout/SweetsofWeeds/SweetsofWeeds-json-server/isses"
+  },
+  "homepage": "https://github.com/I3lackout/SweetsofWeeds/SweetsofWeeds-json-server#readme"
+}
